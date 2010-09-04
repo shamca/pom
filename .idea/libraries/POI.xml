@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="POI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Global_Libraries/poi-3.6/poi-3.6-20091214.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Global_Libraries/poi-3.6" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../Global_Libraries/poi-3.6/docs" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Global_Libraries/poi-3.6" recursive="false" />
+  </library>
+</component>

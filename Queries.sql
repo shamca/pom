@@ -1,0 +1,1 @@
+update poitem set ExtendedCost = (QTY * CostPerUnit) where id > 0
